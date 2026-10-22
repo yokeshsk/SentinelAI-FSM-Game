@@ -7,8 +7,6 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Java%20Swing-blue)
 ![AI](https://img.shields.io/badge/AI-Finite%20State%20Machine-red)
-![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen)
-![Status](https://img.shields.io/badge/Status-Phase%20I%20Complete-yellow)
 
 *A 2D Java game where an enemy patrols, chases, attacks, and searches, driven entirely by a Finite State Machine. Built with 100% pure Java, no external libraries.*
 
@@ -29,7 +27,6 @@
 - [Project Structure](#-project-structure)
 - [Concepts Demonstrated](#-concepts-demonstrated)
 - [Roadmap](#-roadmap)
-- [Author](#-author)
 
 ---
 
@@ -214,14 +211,6 @@ SentinelAI-FSM-Game/
 - [ ] Sprite graphics and animations
 - [ ] Sound effects
 - [ ] Additional states (Flee, Alert nearby enemies)
-
----
-
-## 👨‍💻 Author
-
-**Yokesh S K**
-2nd Year B.E. Computer Science and Engineering
-KIT – Kalaignarkarunanidhi Institute of Technology
 
 ---
 
